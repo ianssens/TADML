@@ -2,7 +2,7 @@ def plus(a, b):
     return a + b
 
 
-a = 0
+a = 1
 
 if __name__ == '__main__':
     print(plus(2, 3))
